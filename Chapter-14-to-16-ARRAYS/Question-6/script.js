@@ -1,0 +1,1 @@
+var mixedArray = [1, "Hello", true, [1, 2, 3], -1, 1.1, null, undefined, NaN];
