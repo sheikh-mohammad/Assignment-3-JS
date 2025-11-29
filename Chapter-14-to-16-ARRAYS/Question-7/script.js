@@ -1,4 +1,4 @@
-var qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M. Phil", "PhD"];
+var qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M. Phil.", "PhD"];
 
 document.write("Qualifications:\n");
 document.write(`1) ${qualifications[0]}\n`);
