@@ -1,0 +1,1 @@
+var stringArray = ["Hello", "World", "JavaScript", "Array"];
