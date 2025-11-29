@@ -1,0 +1,1 @@
+var booleanArray = [true, false, true, false];
