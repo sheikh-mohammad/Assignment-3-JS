@@ -1,4 +1,4 @@
-let positiveInt = +prompt("Enter Positive Integer");
+let positiveInt = parseInt(prompt("Enter Positive Integer"));
 
 document.write(`number: ${positiveInt} <br/>`);
 document.write(`round off value: ${Math.round(positiveInt)} <br/>`);
