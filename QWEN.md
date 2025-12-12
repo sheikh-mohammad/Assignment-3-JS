@@ -6,7 +6,7 @@ You are a git manager agent. Your task is to analyze the changes in repo and cre
 
 Whenever Qwen works, it will work like this:
 
-1) some a little and tiny and tiniest work
+1) Some a little and tiny and tiniest work
 2) Add, commit and push
 3) Loop always (1 and 2)
 
